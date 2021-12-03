@@ -1,5 +1,12 @@
 ### Hi, ShiShc is here 👋
 
+- 🤔 2018 - 2022 XDU 本科.
+
+- 🌱 2020/11 - 2021/7 java开发
+
+- 🌱 2021/11 - now  CSIG - tencent distribution sql.
+
+- 💬 交个朋友吧～ V: tencent_waynesshi
 
 <!--
 **shishc9/shishc9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
